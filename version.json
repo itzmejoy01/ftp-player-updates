@@ -1,6 +1,6 @@
 {
-    "latestVersionCode":  4,
-    "latestVersionName":  "1.3.0",
-    "apkUrl":  "https://github.com/itzmejoy01/ftp-player-updates/releases/download/v1.3.0/FTP-Server-Player.apk",
-    "releaseNotes":  "এখানে আপডেটের সংক্ষিপ্ত নোট লিখুন"
+    "latestVersionCode":  6,
+    "latestVersionName":  "1.5.0",
+    "apkUrl":  "https://github.com/itzmejoy01/ftp-player-updates/releases/download/v1.5.0/FTP-Server-Player.apk",
+    "releaseNotes":  "Bug fixes and performance improvements"
 }
